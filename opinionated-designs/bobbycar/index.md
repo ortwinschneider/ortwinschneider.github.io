@@ -7,6 +7,17 @@ parent: Opinionated Designs
 ---
 
 # Bobbycar - Cloud-native IoT architecture
+{: .no_toc }
+
+[Install](getting_started){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Help & Feedback](https://groups.google.com/g/hybrid-cloud-patterns){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Report Bugs](https://github.com/hybrid-cloud-patterns/multicloud-gitops/issues){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 Bobbycar is a distributed cloud-native application that implements **key aspects** of a modern **IoT architecture** in an exemplary manner. 
 This demo is based on Red Hat's Kubernetes Distribution, **Red Hat OpenShift Container Platform**, and uses various middleware components optimized for a cloud-native usage.

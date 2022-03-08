@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Problem statement
+title: Business scenario
 nav_order: 1
 has_children: false
 parent: Bobbycar
